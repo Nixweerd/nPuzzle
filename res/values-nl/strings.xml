@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hallo NPuzzler!</string>
+    <string name="app_name">NPuzzle</string>
+    <string name="btnBack">Terug</string>
+    <string name="btnYes">Ja</string>
+	<string name="btnNo">Nee</string>
+	<string name="btnCancel">Annuleren</string>
+	<string name="btnOk">Ok</string>
+	<string name="dialog_newgame">Weet u zeker dat u opnieuw wilt beginnen?\nUw huidige voortgang wordt niet opgeslagen.</string>
+	<string name="dialog_exitgame">Weet u zeker dat u het spel wilt afsluiten?</string>
+    <string name="menu_preview">Bekijk Eindresultaat</string>
+    <string name="menu_changePic">Verander Puzzel</string>
+    <string name="menu_changeDif">Verander Niveau</string>
+    <string name="menu_reshuffle">Opniew Schudden</string>
+    <string name="menu_showhs">Records Zien</string>
+    <string name="menu_exit">Spel Afsluiten</string>
+    <string name="hsEasy">Makkelijk</string>
+    <string name="hsMedium">Gemiddeld</string>
+    <string name="hsHard">Moeilijk</string>
+    <string name="hsEnterName">Voer uw naam in:</string>
+    <string name="game_finished1">"Gefeliciteerd, U heeft het spel in "</string>
+    <string name="game_finished2">" stappen gewonnen!\nWilt u nog een spel spelen?"</string>
+    <string name="game_finished2HS">" stappen gewonnen!\nDit is een nieuw record!\nWilt u nog een spel spelen?"</string>
+	<string name="btnSaveHS">Record Opslaan</string>
+	<string name="preview">Raak aan, om naar het spel te gaan</string>
+	
+</resources>

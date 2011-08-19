@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hallo NPuzzler!</string>
+    <string name="app_name">NPuzzle</string>
+    <string name="btnBack">Zurück</string>
+    <string name="btnYes">Ja</string>
+	<string name="btnNo">Nein</string>
+	<string name="btnCancel">Abbrechen</string>
+	<string name="btnOk">Ok</string>
+	<string name="dialog_newgame">Sind Sie sicher das Sie neu starten wollen?\nIhre aktuelle Fortschritt wird nicht gespeichert.</string>
+	<string name="dialog_exitgame">Sind Sie sicher, dass Sie das Spiel schließen wollen?</string>
+    <string name="menu_preview">Vorschau anzeigen</string>
+    <string name="menu_changePic">Puzzle Ändern</string>
+    <string name="menu_changeDif">Schwierigkeitsgrad Ändern</string>
+    <string name="menu_reshuffle">Neu Starten</string>
+    <string name="menu_showhs">Highscores Anzeigen</string>
+    <string name="menu_exit">Spiel Beenden</string>
+    <string name="hsEasy">Einfach</string>
+    <string name="hsMedium">Mittel</string>
+    <string name="hsHard">Schwierig</string>
+    <string name="hsEnterName">Geben Sie Ihren Namen ein:</string>
+    <string name="game_finished1">"Gratulation, Sie haben das Spiel in "</string>
+    <string name="game_finished2">" schritten gewonnen!\nMöchten Sie ein anderes Spiel spielen?"</string>
+    <string name="game_finished2HS">" schritten gewonnen!\nDas ist ein neuer High-Score!\nMöchten Sie ein anderes Spiel spielen?"</string>
+	<string name="btnSaveHS">HighScore speichern</string>
+	<string name="preview">Berühren, um zum Spiel zu gelangen</string>
+</resources>

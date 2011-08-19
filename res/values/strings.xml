@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello NPuzzler!</string>
+    <string name="app_name">NPuzzle</string>
+    <string name="btnBack">Back</string>
+    <string name="btnYes">Yes</string>
+	<string name="btnNo">No</string>
+	<string name="btnCancel">Cancel</string>
+	<string name="btnOk">Ok</string>
+	<string name="dialog_newgame">Are you sure you want to start a new game?\nYour current progress will not be saved.</string>
+	<string name="dialog_exitgame">Are you sure you want to exit?</string>
+    <string name="menu_preview">Show Preview</string>
+    <string name="menu_changePic">Change Picture</string>
+    <string name="menu_changeDif">Change Difficulty</string>
+    <string name="menu_reshuffle">Reshuffle</string>
+    <string name="menu_showhs">Show HighScore</string>
+    <string name="menu_exit">Exit Game</string>
+    <string name="hsEasy">Easy</string>
+    <string name="hsMedium">Medium</string>
+    <string name="hsHard">Hard</string>
+    <string name="hsEnterName">Please give your name:</string>
+    <string name="game_finished1">"Congratulations, you have finished the game in "</string>
+    <string name="game_finished2">" steps!\nDo you want to play another game?"</string>
+    <string name="game_finished2HS">" steps!\nThis is a new HighScore!\nDo you want to play another game?"</string>
+    <string name="preview">Touch, to continue to the game</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/preview" android:title="@string/menu_preview"></item>
+    <item android:id="@+id/picChange" android:title="@string/menu_changePic"></item><item android:id="@+id/difChange" android:title="@string/menu_changeDif"></item><item android:id="@+id/reshuffle" android:title="@string/menu_reshuffle"></item>
+    <item android:id="@+id/highScore" android:title="@string/menu_showhs"></item><item android:id="@+id/exitgame" android:title="@string/menu_exit"></item>
+    
+    
+    
+</menu>

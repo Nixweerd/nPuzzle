@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TableLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingRight="10px" 
+    android:stretchColumns="1">
+    
+    <TableRow>
+        <TextView
+        	android:layout_column="1"
+            android:text="Name"
+            android:gravity="left"
+            android:padding="1dip"
+             />
+        <TextView
+            android:text="Steps"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="1: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore1"
+            android:id="@+id/hs1"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps1"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="2: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore2"
+            android:id="@+id/hs2"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps2"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="3: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore3"
+            android:id="@+id/hs3"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps3"
+            android:gravity="left"
+            android:padding="1dip"/>
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="4: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore4"
+            android:id="@+id/hs4"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps4"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="5: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore5"
+            android:id="@+id/hs5"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps5"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="6: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore6"
+            android:id="@+id/hs6"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps6"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="7: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore7"
+            android:id="@+id/hs7"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps7"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="8: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore8"
+            android:id="@+id/hs8"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps8"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="9: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore9"
+            android:id="@+id/hs9"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps9"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+    
+    <TableRow>
+    	<TextView
+            android:text="10: "
+            android:gravity="right"
+            android:padding="2dip" />
+        <TextView
+            android:text="HighScore10"
+            android:id="@+id/hs10"
+            android:gravity="left"
+            android:padding="1dip" />
+        <TextView
+        	android:text="0"
+            android:id="@+id/steps10"
+            android:gravity="left"
+            android:padding="1dip" />
+    </TableRow>
+</TableLayout>
+</ScrollView>
